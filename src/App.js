@@ -58,7 +58,7 @@ function App() {
 
           <Header />
 
-          <p>This is what I see when signed in</p>
+          <p>This is what I see when signed in!</p>
           <button onClick={() => Auth.signOut()}>Sign Out</button>
         </div>
 
